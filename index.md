@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Start with Azure today!
 
-You can use the [editor on GitHub](https://github.com/Santhoshkumard11/Microsoft-Azure-Certification-FAQ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## FAQs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. I'm totally new to Cloud Computing, who to start?
+- 
+2. I'm a college student which certification to pick
+3. Will getting certifications help he get a job?
+4. Will Azure certification help to get inside Microsoft?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Santhoshkumard11/Microsoft-Azure-Certification-FAQ/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5. How is the learning curve?
+6. 📌How to stand out among all other certification holders?
+7. What to do after certification?
+8. What are the benefits of being Azure certified?
+9. Why Azure and not Amazon Web Services (AWS) or Google Cloud Platform (GCP) ??
+10. Where to learn?
+11. How to learn?
+12. How to practice?
+13. How to explore more about Azure?
+14. How to keep myself updated on Azure and it's offerings?
