@@ -1,3 +1,4 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Sandy - Microsoft Azure Certification FAQs
 description: This page will answer most of your questions related to Azure Certifications
+theme: jekyll-theme-cayman
