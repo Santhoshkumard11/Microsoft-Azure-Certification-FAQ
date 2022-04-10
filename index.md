@@ -1,4 +1,4 @@
-## FAQs
+## Microsoft Azure Certification FAQs - Sandy
 
 1. I'm new to Cloud Computing, who to start ?
 - For someone how is new and has no knowledge on Cloud or what is cloud even. There is a beautifully constructed article [here](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing) from Microsoft Learn which gives you the perfect introduction on what is cloud, why it is needed, and why organizations use it.
